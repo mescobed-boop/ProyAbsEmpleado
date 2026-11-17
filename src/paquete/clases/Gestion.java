@@ -103,7 +103,7 @@ public class Gestion
                  Electronico aux = (Electronico)arreglo[i];
                  if(aux.getAntig()==mayor)
                  {
-                     //System.out.println(aux.VerInfo());
+                     //System.out.println(aux.VerInfo  ());
                      JOptionPane.showMessageDialog(null,aux.VerInfo());
                  }
              }
